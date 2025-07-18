@@ -1,12 +1,12 @@
 %TF.GenerationSoftware,KiCad,Pcbnew,8.0.1*%
-%TF.CreationDate,2025-07-13T23:20:01+09:00*%
+%TF.CreationDate,2025-07-18T19:56:24+09:00*%
 %TF.ProjectId,Cloudnine_rp2040,436c6f75-646e-4696-9e65-5f7270323034,rev?*%
 %TF.SameCoordinates,Original*%
 %TF.FileFunction,Paste,Bot*%
 %TF.FilePolarity,Positive*%
 %FSLAX46Y46*%
 G04 Gerber Fmt 4.6, Leading zero omitted, Abs format (unit mm)*
-G04 Created by KiCad (PCBNEW 8.0.1) date 2025-07-13 23:20:01*
+G04 Created by KiCad (PCBNEW 8.0.1) date 2025-07-18 19:56:24*
 %MOMM*%
 %LPD*%
 G01*
@@ -172,8 +172,8 @@ X138556250Y-57568750D03*
 X138556250Y-54268750D03*
 %TD*%
 %TO.C,D5*%
-X114900000Y-38050000D03*
-X114900000Y-34750000D03*
+X114950000Y-37475000D03*
+X114950000Y-34175000D03*
 %TD*%
 %TO.C,D19*%
 X100556250Y-57568750D03*
