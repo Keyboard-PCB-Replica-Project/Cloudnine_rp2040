@@ -1,4 +1,4 @@
-26985350674165042
+27017131103455798
 Audio_Module
 Reverb_BTDR-1H
 Digital Reverberation Unit, http://www.belton.co.kr/inc/downfile.php?seq=17&file=pdf (footprint from http://www.uk-electronic.de/PDF/BTDR-1.pdf)
@@ -97090,6 +97090,13 @@ SOD-123
 2
 2
 ScottoKeebs_Components
+Diode_SOD-123_noref_Reversible
+SOD-123
+SOD-123
+0
+2
+2
+ScottoKeebs_Components
 LED_SK6812MINI
 
 
@@ -98476,6 +98483,20 @@ Choc Keyswitch Switch CPG1350 V1 Hotswap Plated Cutout Keycap ISOEnter 270deg
 6
 2
 ScottoKeebs_Hotswap
+Hotswap_Choc_V1_reversible
+Choc keyswitch V1 CPG1350 V1 Hotswap
+Choc Keyswitch Switch CPG1350 V1 Hotswap Cutout
+0
+4
+2
+ScottoKeebs_Hotswap
+Hotswap_Choc_V1_reversible_2
+Choc keyswitch V1 CPG1350 V1 Hotswap
+Choc Keyswitch Switch CPG1350 V1 Hotswap Cutout
+0
+4
+2
+ScottoKeebs_Hotswap
 Hotswap_Choc_V2
 Choc keyswitch V2 CPG1353 V2 Hotswap
 Choc Keyswitch Switch CPG1353 V2 Hotswap Cutout
@@ -99779,6 +99800,13 @@ MX Keyboard Keyswitch Switch PCB Cutout Keycap 1.00u
 2
 ScottoKeebs_MX
 MX_PCB_1.00u_NoSilkscreen4
+MX keyswitch PCB Mount Keycap 1.00u
+MX Keyboard Keyswitch Switch PCB Cutout Keycap 1.00u
+0
+2
+2
+ScottoKeebs_MX
+MX_PCB_1.00u_NoSilkscreen_narrow
 MX keyswitch PCB Mount Keycap 1.00u
 MX Keyboard Keyswitch Switch PCB Cutout Keycap 1.00u
 0
@@ -108283,6 +108311,13 @@ hjcustom
 0
 0
 hjcustom
+3mmx2
+
+
+0
+2
+2
+hjcustom
 C_0402_1005Metric
 Capacitor SMD 0402 (1005 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: IPC-SM-782 page 76, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf), generated with kicad-footprint-generator
 capacitor
@@ -108318,6 +108353,13 @@ capacitor
 2
 2
 hjcustom
+C_0805_2012Metric_VALUE
+Capacitor SMD 0805 (2012 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: IPC-SM-782 page 76, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf, https://docs.google.com/spreadsheets/d/1BsfQQcO9C6DZCsRaXUlFlo91Tg2WpOkGARC1WS5S8t0/edit?usp=sharing), generated with kicad-footprint-generator
+capacitor
+0
+2
+2
+hjcustom
 C_01005_0402Metric_GNDVIA
 Capacitor SMD 01005 (0402 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: http://www.vishay.com/docs/20056/crcw01005e3.pdf), generated with kicad-footprint-generator
 capacitor
@@ -108328,6 +108370,13 @@ hjcustom
 D_SOD-123_REFON1
 SOD-123
 SOD-123
+0
+2
+2
+hjcustom
+D_SOD-323_nosil
+SOD-323
+SOD-323
 0
 2
 2
@@ -108388,6 +108437,13 @@ M2Thoughhole
 1
 1
 hjcustom
+MSK12C02
+
+
+0
+7
+4
+hjcustom
 MX_PLATE
 
 
@@ -108430,11 +108486,25 @@ SPST Tactile Switch
 4
 2
 hjcustom
+WS2812B-2020
+
+
+0
+4
+4
+hjcustom
 cherry_ledhole
 
 
 0
 4
+2
+hjcustom
+cherry_ledhole_single
+
+
+0
+2
 2
 hjcustom
 ecs_pad_1U
@@ -109507,6 +109577,27 @@ Hotswap footprint for Kailh Choc v2 style switches
 0
 7
 3
+marbastlib-xp-choc
+SW_choc_v2_HS_1u_Reversible
+Hotswap footprint for Kailh Choc v2 style switches
+
+0
+12
+2
+marbastlib-xp-choc
+SW_choc_v2_HS_1u_Reversible_2
+Hotswap footprint for Kailh Choc v2 style switches
+
+0
+14
+3
+marbastlib-xp-choc
+SW_choc_v2_HS_1u_Reversible_3
+Hotswap footprint for Kailh Choc v2 style switches
+
+0
+12
+2
 marbastlib-xp-hitek
 SW_HiTek_Mount_1.5u
 Footprint for Hi-Tek Series 725 ("Space Invader") Switches
@@ -110298,6 +110389,41 @@ Footprint for Elite-C controllers, through hole and castellated pads
 0
 22
 22
+marbastlib-xp-promicroish
+Xiao_nRF52840_AC_Reflow_2
+Footprint for Elite-C controllers, through hole and castellated pads
+
+0
+18
+18
+marbastlib-xp-promicroish
+Xiao_nRF52840_AC_Reflow_3
+Footprint for Elite-C controllers, through hole and castellated pads
+
+0
+18
+18
+marbastlib-xp-promicroish
+Xiao_nRF52840_AC_Reflow_4
+Footprint for Elite-C controllers, through hole and castellated pads
+
+0
+20
+20
+marbastlib-xp-promicroish
+Xiao_nRF52840_AC_Reflow_5
+Footprint for Elite-C controllers, through hole and castellated pads
+
+0
+20
+20
+marbastlib-xp-promicroish
+Xiao_nRF52840_AC_Reflow_6
+Footprint for Elite-C controllers, through hole and castellated pads
+
+0
+20
+20
 marbastlib-xp-promicroish
 Xiao_nRF52840_AH_Pogo
 Footprint for Elite-C controllers, through hole and castellated pads

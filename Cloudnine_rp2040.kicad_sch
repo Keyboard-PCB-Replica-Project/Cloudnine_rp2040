@@ -7915,7 +7915,7 @@
 				)
 			)
 		)
-		(property "Footprint" "ScottoKeebs_MX:MX_PCB_1.00u_NoSilkscreen3"
+		(property "Footprint" "ScottoKeebs_MX:MX_PCB_1.00u_NoSilkscreen_narrow"
 			(at 208.28 173.99 0)
 			(effects
 				(font
@@ -8071,7 +8071,7 @@
 				)
 			)
 		)
-		(property "Footprint" "ScottoKeebs_MX:MX_PCB_1.00u_NoSilkscreen3"
+		(property "Footprint" "ScottoKeebs_MX:MX_PCB_1.00u_NoSilkscreen_narrow"
 			(at 320.04 120.65 0)
 			(effects
 				(font
@@ -8363,7 +8363,7 @@
 				)
 			)
 		)
-		(property "Footprint" "ScottoKeebs_MX:MX_PCB_1.00u_NoSilkscreen3"
+		(property "Footprint" "ScottoKeebs_MX:MX_PCB_1.00u_NoSilkscreen_narrow"
 			(at 347.98 138.43 0)
 			(effects
 				(font
@@ -8677,7 +8677,7 @@
 				)
 			)
 		)
-		(property "Footprint" "ScottoKeebs_MX:MX_PCB_1.00u_NoSilkscreen3"
+		(property "Footprint" "ScottoKeebs_MX:MX_PCB_1.00u_NoSilkscreen_narrow"
 			(at 334.01 102.87 0)
 			(effects
 				(font
@@ -8903,7 +8903,7 @@
 				)
 			)
 		)
-		(property "Footprint" "ScottoKeebs_MX:MX_PCB_1.00u_NoSilkscreen3"
+		(property "Footprint" "ScottoKeebs_MX:MX_PCB_1.00u_NoSilkscreen_narrow"
 			(at 250.19 102.87 0)
 			(effects
 				(font
@@ -8971,7 +8971,7 @@
 				)
 			)
 		)
-		(property "Footprint" "ScottoKeebs_MX:MX_PCB_1.00u_NoSilkscreen3"
+		(property "Footprint" "ScottoKeebs_MX:MX_PCB_1.00u_NoSilkscreen_narrow"
 			(at 250.19 138.43 0)
 			(effects
 				(font
@@ -9487,7 +9487,7 @@
 				)
 			)
 		)
-		(property "Footprint" "ScottoKeebs_MX:MX_PCB_1.00u_NoSilkscreen3"
+		(property "Footprint" "ScottoKeebs_MX:MX_PCB_1.00u_NoSilkscreen_narrow"
 			(at 320.04 138.43 0)
 			(effects
 				(font
@@ -9555,7 +9555,7 @@
 				)
 			)
 		)
-		(property "Footprint" "ScottoKeebs_MX:MX_PCB_1.00u_NoSilkscreen3"
+		(property "Footprint" "ScottoKeebs_MX:MX_PCB_1.00u_NoSilkscreen_narrow"
 			(at 194.31 156.21 0)
 			(effects
 				(font
@@ -9623,7 +9623,7 @@
 				)
 			)
 		)
-		(property "Footprint" "ScottoKeebs_MX:MX_PCB_1.00u_NoSilkscreen3"
+		(property "Footprint" "ScottoKeebs_MX:MX_PCB_1.00u_NoSilkscreen_narrow"
 			(at 194.31 120.65 0)
 			(effects
 				(font
@@ -9691,7 +9691,7 @@
 				)
 			)
 		)
-		(property "Footprint" "ScottoKeebs_MX:MX_PCB_1.00u_NoSilkscreen3"
+		(property "Footprint" "ScottoKeebs_MX:MX_PCB_1.00u_NoSilkscreen_narrow"
 			(at 391.16 102.87 0)
 			(effects
 				(font
@@ -9759,7 +9759,7 @@
 				)
 			)
 		)
-		(property "Footprint" "ScottoKeebs_MX:MX_PCB_1.00u_NoSilkscreen3"
+		(property "Footprint" "ScottoKeebs_MX:MX_PCB_1.00u_NoSilkscreen_narrow"
 			(at 222.25 120.65 0)
 			(effects
 				(font
@@ -9975,7 +9975,7 @@
 				)
 			)
 		)
-		(property "Footprint" "ScottoKeebs_MX:MX_PCB_1.00u_NoSilkscreen3"
+		(property "Footprint" "ScottoKeebs_MX:MX_PCB_1.00u_NoSilkscreen_narrow"
 			(at 194.31 173.99 0)
 			(effects
 				(font
@@ -10372,7 +10372,7 @@
 				)
 			)
 		)
-		(property "Footprint" "ScottoKeebs_MX:MX_PCB_1.00u_NoSilkscreen3"
+		(property "Footprint" "ScottoKeebs_MX:MX_PCB_1.00u_NoSilkscreen_narrow"
 			(at 306.07 120.65 0)
 			(effects
 				(font
@@ -10879,7 +10879,7 @@
 				)
 			)
 		)
-		(property "Footprint" "ScottoKeebs_MX:MX_PCB_1.00u_NoSilkscreen3"
+		(property "Footprint" "ScottoKeebs_MX:MX_PCB_1.00u_NoSilkscreen_narrow"
 			(at 375.92 120.65 0)
 			(effects
 				(font
@@ -10947,7 +10947,7 @@
 				)
 			)
 		)
-		(property "Footprint" "ScottoKeebs_MX:MX_PCB_1.00u_NoSilkscreen3"
+		(property "Footprint" "ScottoKeebs_MX:MX_PCB_1.00u_NoSilkscreen_narrow"
 			(at 278.13 156.21 0)
 			(effects
 				(font
@@ -11259,7 +11259,7 @@
 				)
 			)
 		)
-		(property "Footprint" "ScottoKeebs_MX:MX_PCB_1.00u_NoSilkscreen3"
+		(property "Footprint" "ScottoKeebs_MX:MX_PCB_1.00u_NoSilkscreen_narrow"
 			(at 361.95 156.21 0)
 			(effects
 				(font
@@ -11415,7 +11415,7 @@
 				)
 			)
 		)
-		(property "Footprint" "ScottoKeebs_MX:MX_PCB_1.00u_NoSilkscreen3"
+		(property "Footprint" "ScottoKeebs_MX:MX_PCB_1.00u_NoSilkscreen_narrow"
 			(at 264.16 156.21 0)
 			(effects
 				(font
@@ -11711,7 +11711,7 @@
 				)
 			)
 		)
-		(property "Footprint" "ScottoKeebs_MX:MX_PCB_1.00u_NoSilkscreen3"
+		(property "Footprint" "ScottoKeebs_MX:MX_PCB_1.00u_NoSilkscreen_narrow"
 			(at 236.22 156.21 0)
 			(effects
 				(font
@@ -11779,7 +11779,7 @@
 				)
 			)
 		)
-		(property "Footprint" "ScottoKeebs_MX:MX_PCB_1.00u_NoSilkscreen3"
+		(property "Footprint" "ScottoKeebs_MX:MX_PCB_1.00u_NoSilkscreen_narrow"
 			(at 278.13 120.65 0)
 			(effects
 				(font
@@ -12156,7 +12156,7 @@
 				)
 			)
 		)
-		(property "Footprint" "ScottoKeebs_MX:MX_PCB_1.00u_NoSilkscreen3"
+		(property "Footprint" "ScottoKeebs_MX:MX_PCB_1.00u_NoSilkscreen_narrow"
 			(at 250.19 120.65 0)
 			(effects
 				(font
@@ -12224,7 +12224,7 @@
 				)
 			)
 		)
-		(property "Footprint" "ScottoKeebs_MX:MX_PCB_1.00u_NoSilkscreen3"
+		(property "Footprint" "ScottoKeebs_MX:MX_PCB_1.00u_NoSilkscreen_narrow"
 			(at 306.07 102.87 0)
 			(effects
 				(font
@@ -12446,7 +12446,7 @@
 				)
 			)
 		)
-		(property "Footprint" "ScottoKeebs_MX:MX_PCB_1.00u_NoSilkscreen3"
+		(property "Footprint" "ScottoKeebs_MX:MX_PCB_1.00u_NoSilkscreen_narrow"
 			(at 278.13 173.99 0)
 			(effects
 				(font
@@ -12649,7 +12649,7 @@
 				)
 			)
 		)
-		(property "Footprint" "ScottoKeebs_MX:MX_PCB_1.00u_NoSilkscreen3"
+		(property "Footprint" "ScottoKeebs_MX:MX_PCB_1.00u_NoSilkscreen_narrow"
 			(at 264.16 102.87 0)
 			(effects
 				(font
@@ -13602,7 +13602,7 @@
 				)
 			)
 		)
-		(property "Footprint" "ScottoKeebs_MX:MX_PCB_1.00u_NoSilkscreen3"
+		(property "Footprint" "ScottoKeebs_MX:MX_PCB_1.00u_NoSilkscreen_narrow"
 			(at 222.25 156.21 0)
 			(effects
 				(font
@@ -13670,7 +13670,7 @@
 				)
 			)
 		)
-		(property "Footprint" "ScottoKeebs_MX:MX_PCB_1.00u_NoSilkscreen3"
+		(property "Footprint" "ScottoKeebs_MX:MX_PCB_1.00u_NoSilkscreen_narrow"
 			(at 306.07 138.43 0)
 			(effects
 				(font
@@ -14293,7 +14293,7 @@
 				)
 			)
 		)
-		(property "Footprint" "ScottoKeebs_MX:MX_PCB_1.00u_NoSilkscreen3"
+		(property "Footprint" "ScottoKeebs_MX:MX_PCB_1.00u_NoSilkscreen_narrow"
 			(at 194.31 138.43 0)
 			(effects
 				(font
@@ -14361,7 +14361,7 @@
 				)
 			)
 		)
-		(property "Footprint" "ScottoKeebs_MX:MX_PCB_1.00u_NoSilkscreen3"
+		(property "Footprint" "ScottoKeebs_MX:MX_PCB_1.00u_NoSilkscreen_narrow"
 			(at 250.19 156.21 0)
 			(effects
 				(font
@@ -14745,7 +14745,7 @@
 				)
 			)
 		)
-		(property "Footprint" "ScottoKeebs_MX:MX_PCB_1.00u_NoSilkscreen3"
+		(property "Footprint" "ScottoKeebs_MX:MX_PCB_1.00u_NoSilkscreen_narrow"
 			(at 347.98 156.21 0)
 			(effects
 				(font
@@ -15143,7 +15143,7 @@
 				)
 			)
 		)
-		(property "Footprint" "ScottoKeebs_MX:MX_PCB_1.00u_NoSilkscreen3"
+		(property "Footprint" "ScottoKeebs_MX:MX_PCB_1.00u_NoSilkscreen_narrow"
 			(at 208.28 156.21 0)
 			(effects
 				(font
@@ -15365,7 +15365,7 @@
 				)
 			)
 		)
-		(property "Footprint" "ScottoKeebs_MX:MX_PCB_1.00u_NoSilkscreen3"
+		(property "Footprint" "ScottoKeebs_MX:MX_PCB_1.00u_NoSilkscreen_narrow"
 			(at 334.01 173.99 0)
 			(effects
 				(font
@@ -15433,7 +15433,7 @@
 				)
 			)
 		)
-		(property "Footprint" "ScottoKeebs_MX:MX_PCB_1.00u_NoSilkscreen3"
+		(property "Footprint" "ScottoKeebs_MX:MX_PCB_1.00u_NoSilkscreen_narrow"
 			(at 320.04 173.99 0)
 			(effects
 				(font
@@ -16112,7 +16112,7 @@
 				)
 			)
 		)
-		(property "Footprint" "ScottoKeebs_MX:MX_PCB_1.00u_NoSilkscreen3"
+		(property "Footprint" "ScottoKeebs_MX:MX_PCB_1.00u_NoSilkscreen_narrow"
 			(at 320.04 102.87 0)
 			(effects
 				(font
@@ -16425,7 +16425,7 @@
 				)
 			)
 		)
-		(property "Footprint" "ScottoKeebs_MX:MX_PCB_1.00u_NoSilkscreen3"
+		(property "Footprint" "ScottoKeebs_MX:MX_PCB_1.00u_NoSilkscreen_narrow"
 			(at 208.28 138.43 0)
 			(effects
 				(font
@@ -16559,7 +16559,7 @@
 				)
 			)
 		)
-		(property "Footprint" "ScottoKeebs_MX:MX_PCB_1.00u_NoSilkscreen3"
+		(property "Footprint" "ScottoKeebs_MX:MX_PCB_1.00u_NoSilkscreen_narrow"
 			(at 264.16 120.65 0)
 			(effects
 				(font
@@ -16715,7 +16715,7 @@
 				)
 			)
 		)
-		(property "Footprint" "ScottoKeebs_MX:MX_PCB_1.00u_NoSilkscreen3"
+		(property "Footprint" "ScottoKeebs_MX:MX_PCB_1.00u_NoSilkscreen_narrow"
 			(at 334.01 120.65 0)
 			(effects
 				(font
@@ -16871,7 +16871,7 @@
 				)
 			)
 		)
-		(property "Footprint" "ScottoKeebs_MX:MX_PCB_1.00u_NoSilkscreen3"
+		(property "Footprint" "ScottoKeebs_MX:MX_PCB_1.00u_NoSilkscreen_narrow"
 			(at 361.95 138.43 0)
 			(effects
 				(font
@@ -17009,7 +17009,7 @@
 				)
 			)
 		)
-		(property "Footprint" "ScottoKeebs_MX:MX_PCB_1.00u_NoSilkscreen3"
+		(property "Footprint" "ScottoKeebs_MX:MX_PCB_1.00u_NoSilkscreen_narrow"
 			(at 264.16 138.43 0)
 			(effects
 				(font
@@ -17165,7 +17165,7 @@
 				)
 			)
 		)
-		(property "Footprint" "ScottoKeebs_MX:MX_PCB_1.00u_NoSilkscreen3"
+		(property "Footprint" "ScottoKeebs_MX:MX_PCB_1.00u_NoSilkscreen_narrow"
 			(at 208.28 102.87 0)
 			(effects
 				(font
@@ -17233,7 +17233,7 @@
 				)
 			)
 		)
-		(property "Footprint" "ScottoKeebs_MX:MX_PCB_1.00u_NoSilkscreen3"
+		(property "Footprint" "ScottoKeebs_MX:MX_PCB_1.00u_NoSilkscreen_narrow"
 			(at 194.31 102.87 0)
 			(effects
 				(font
@@ -17389,7 +17389,7 @@
 				)
 			)
 		)
-		(property "Footprint" "ScottoKeebs_MX:MX_PCB_1.00u_NoSilkscreen3"
+		(property "Footprint" "ScottoKeebs_MX:MX_PCB_1.00u_NoSilkscreen_narrow"
 			(at 347.98 173.99 0)
 			(effects
 				(font
@@ -17819,7 +17819,7 @@
 				)
 			)
 		)
-		(property "Footprint" "ScottoKeebs_MX:MX_PCB_1.00u_NoSilkscreen3"
+		(property "Footprint" "ScottoKeebs_MX:MX_PCB_1.00u_NoSilkscreen_narrow"
 			(at 292.1 102.87 0)
 			(effects
 				(font
@@ -17887,7 +17887,7 @@
 				)
 			)
 		)
-		(property "Footprint" "ScottoKeebs_MX:MX_PCB_1.00u_NoSilkscreen3"
+		(property "Footprint" "ScottoKeebs_MX:MX_PCB_1.00u_NoSilkscreen_narrow"
 			(at 306.07 156.21 0)
 			(effects
 				(font
@@ -17955,7 +17955,7 @@
 				)
 			)
 		)
-		(property "Footprint" "ScottoKeebs_MX:MX_PCB_1.00u_NoSilkscreen3"
+		(property "Footprint" "ScottoKeebs_MX:MX_PCB_1.00u_NoSilkscreen_narrow"
 			(at 292.1 156.21 0)
 			(effects
 				(font
@@ -18023,7 +18023,7 @@
 				)
 			)
 		)
-		(property "Footprint" "ScottoKeebs_MX:MX_PCB_1.00u_NoSilkscreen3"
+		(property "Footprint" "ScottoKeebs_MX:MX_PCB_1.00u_NoSilkscreen_narrow"
 			(at 361.95 120.65 0)
 			(effects
 				(font
@@ -18246,7 +18246,7 @@
 				)
 			)
 		)
-		(property "Footprint" "ScottoKeebs_MX:MX_PCB_1.00u_NoSilkscreen3"
+		(property "Footprint" "ScottoKeebs_MX:MX_PCB_1.00u_NoSilkscreen_narrow"
 			(at 236.22 120.65 0)
 			(effects
 				(font
@@ -18314,7 +18314,7 @@
 				)
 			)
 		)
-		(property "Footprint" "ScottoKeebs_MX:MX_PCB_1.00u_NoSilkscreen3"
+		(property "Footprint" "ScottoKeebs_MX:MX_PCB_1.00u_NoSilkscreen_narrow"
 			(at 222.25 138.43 0)
 			(effects
 				(font
@@ -18452,7 +18452,7 @@
 				)
 			)
 		)
-		(property "Footprint" "ScottoKeebs_MX:MX_PCB_1.00u_NoSilkscreen3"
+		(property "Footprint" "ScottoKeebs_MX:MX_PCB_1.00u_NoSilkscreen_narrow"
 			(at 222.25 102.87 0)
 			(effects
 				(font
@@ -18675,7 +18675,7 @@
 				)
 			)
 		)
-		(property "Footprint" "ScottoKeebs_MX:MX_PCB_1.00u_NoSilkscreen3"
+		(property "Footprint" "ScottoKeebs_MX:MX_PCB_1.00u_NoSilkscreen_narrow"
 			(at 361.95 173.99 0)
 			(effects
 				(font
@@ -18985,7 +18985,7 @@
 				)
 			)
 		)
-		(property "Footprint" "ScottoKeebs_MX:MX_PCB_1.00u_NoSilkscreen3"
+		(property "Footprint" "ScottoKeebs_MX:MX_PCB_1.00u_NoSilkscreen_narrow"
 			(at 208.28 120.65 0)
 			(effects
 				(font
@@ -19125,7 +19125,7 @@
 				)
 			)
 		)
-		(property "Footprint" "ScottoKeebs_MX:MX_PCB_1.00u_NoSilkscreen3"
+		(property "Footprint" "ScottoKeebs_MX:MX_PCB_1.00u_NoSilkscreen_narrow"
 			(at 236.22 138.43 0)
 			(effects
 				(font
@@ -19439,7 +19439,7 @@
 				)
 			)
 		)
-		(property "Footprint" "ScottoKeebs_MX:MX_PCB_1.00u_NoSilkscreen3"
+		(property "Footprint" "ScottoKeebs_MX:MX_PCB_1.00u_NoSilkscreen_narrow"
 			(at 222.25 173.99 0)
 			(effects
 				(font
@@ -19507,7 +19507,7 @@
 				)
 			)
 		)
-		(property "Footprint" "ScottoKeebs_MX:MX_PCB_1.00u_NoSilkscreen3"
+		(property "Footprint" "ScottoKeebs_MX:MX_PCB_1.00u_NoSilkscreen_narrow"
 			(at 278.13 138.43 0)
 			(effects
 				(font
@@ -19575,7 +19575,7 @@
 				)
 			)
 		)
-		(property "Footprint" "ScottoKeebs_MX:MX_PCB_1.00u_NoSilkscreen3"
+		(property "Footprint" "ScottoKeebs_MX:MX_PCB_1.00u_NoSilkscreen_narrow"
 			(at 236.22 102.87 0)
 			(effects
 				(font
@@ -19801,7 +19801,7 @@
 				)
 			)
 		)
-		(property "Footprint" "ScottoKeebs_MX:MX_PCB_1.00u_NoSilkscreen3"
+		(property "Footprint" "ScottoKeebs_MX:MX_PCB_1.00u_NoSilkscreen_narrow"
 			(at 292.1 138.43 0)
 			(effects
 				(font
@@ -20111,7 +20111,7 @@
 				)
 			)
 		)
-		(property "Footprint" "ScottoKeebs_MX:MX_PCB_1.00u_NoSilkscreen3"
+		(property "Footprint" "ScottoKeebs_MX:MX_PCB_1.00u_NoSilkscreen_narrow"
 			(at 278.13 102.87 0)
 			(effects
 				(font
@@ -20267,7 +20267,7 @@
 				)
 			)
 		)
-		(property "Footprint" "ScottoKeebs_MX:MX_PCB_1.00u_NoSilkscreen3"
+		(property "Footprint" "ScottoKeebs_MX:MX_PCB_1.00u_NoSilkscreen_narrow"
 			(at 320.04 156.21 0)
 			(effects
 				(font
@@ -20335,7 +20335,7 @@
 				)
 			)
 		)
-		(property "Footprint" "ScottoKeebs_MX:MX_PCB_1.00u_NoSilkscreen3"
+		(property "Footprint" "ScottoKeebs_MX:MX_PCB_1.00u_NoSilkscreen_narrow"
 			(at 334.01 138.43 0)
 			(effects
 				(font
@@ -20470,7 +20470,7 @@
 				)
 			)
 		)
-		(property "Footprint" "ScottoKeebs_MX:MX_PCB_1.00u_NoSilkscreen3"
+		(property "Footprint" "ScottoKeebs_MX:MX_PCB_1.00u_NoSilkscreen_narrow"
 			(at 375.92 102.87 0)
 			(effects
 				(font
@@ -20538,7 +20538,7 @@
 				)
 			)
 		)
-		(property "Footprint" "ScottoKeebs_MX:MX_PCB_1.00u_NoSilkscreen3"
+		(property "Footprint" "ScottoKeebs_MX:MX_PCB_1.00u_NoSilkscreen_narrow"
 			(at 361.95 102.87 0)
 			(effects
 				(font
@@ -20606,7 +20606,7 @@
 				)
 			)
 		)
-		(property "Footprint" "ScottoKeebs_MX:MX_PCB_1.00u_NoSilkscreen3"
+		(property "Footprint" "ScottoKeebs_MX:MX_PCB_1.00u_NoSilkscreen_narrow"
 			(at 292.1 120.65 0)
 			(effects
 				(font
@@ -20674,7 +20674,7 @@
 				)
 			)
 		)
-		(property "Footprint" "ScottoKeebs_MX:MX_PCB_1.00u_NoSilkscreen3"
+		(property "Footprint" "ScottoKeebs_MX:MX_PCB_1.00u_NoSilkscreen_narrow"
 			(at 347.98 102.87 0)
 			(effects
 				(font
@@ -20918,7 +20918,7 @@
 				)
 			)
 		)
-		(property "Footprint" "ScottoKeebs_MX:MX_PCB_1.00u_NoSilkscreen3"
+		(property "Footprint" "ScottoKeebs_MX:MX_PCB_1.00u_NoSilkscreen_narrow"
 			(at 347.98 120.65 0)
 			(effects
 				(font
@@ -21074,7 +21074,7 @@
 				)
 			)
 		)
-		(property "Footprint" "ScottoKeebs_MX:MX_PCB_1.00u_NoSilkscreen3"
+		(property "Footprint" "ScottoKeebs_MX:MX_PCB_1.00u_NoSilkscreen_narrow"
 			(at 334.01 156.21 0)
 			(effects
 				(font
